@@ -1,0 +1,10 @@
+c:\users\michael\source\repos\First\First\bin\Debug\First.exe.config
+c:\users\michael\source\repos\First\First\bin\Debug\First.exe
+c:\users\michael\source\repos\First\First\bin\Debug\First.pdb
+c:\users\michael\source\repos\First\First\obj\Debug\First.csprojAssemblyReference.cache
+c:\users\michael\source\repos\First\First\obj\Debug\First.Form1.resources
+c:\users\michael\source\repos\First\First\obj\Debug\First.Properties.Resources.resources
+c:\users\michael\source\repos\First\First\obj\Debug\First.csproj.GenerateResource.cache
+c:\users\michael\source\repos\First\First\obj\Debug\First.csproj.CoreCompileInputs.cache
+c:\users\michael\source\repos\First\First\obj\Debug\First.exe
+c:\users\michael\source\repos\First\First\obj\Debug\First.pdb
